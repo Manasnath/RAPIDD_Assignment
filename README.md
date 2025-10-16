@@ -86,7 +86,7 @@ ManasNath_C# Assignment.exe
 ---
 
 ## 📤 Submission Information  
-- GitHub Repository: [https://github.com/<your-username>/RAPIDD_Assignment](https://github.com/<your-username>/RAPIDD_Assignment)  
+- GitHub Repository: https://github.com/Manasnath/RAPIDD_Assignment 
 - Executable File: Uploaded to RAPIDD hiring portal  
 - Confirmation Email: Sent to HR  
 
